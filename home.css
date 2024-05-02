@@ -5426,8 +5426,9 @@ input[type=reset] {
     padding-bottom: 20px;
     position: relative;
     top: 50px;
-    display: inline-block;
-    left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+/*     left: 150px; */
 }
 
 .k {
